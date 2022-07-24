@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Введите текст. Для разделения слов используйте пробелы (в том числе, после знаков препинания): ");
+Console.WriteLine("Введите текст. Для разделения слов используйте пробелы (в том числе, после знаков препинания): ");
 string text = Console.ReadLine();
 Console.WriteLine("Введите количество символов. Слова с таким или меньшим количеством символов будут выведены на экран: ");
 int Characters = int.Parse(Console.ReadLine());
@@ -20,4 +20,17 @@ void PrintArray(string[] array)
 
         Console.Write(" ");
     }
+}
+
+int Counter(string[] array, int Quantity)
+{
+    int count = 0;
+    for (int i = 0; i < array.Length; i++)
+    {
+        if (array[i].Length <= Quantity)
+        {
+            count++;
+        }
+    }
+    return count;
 }
