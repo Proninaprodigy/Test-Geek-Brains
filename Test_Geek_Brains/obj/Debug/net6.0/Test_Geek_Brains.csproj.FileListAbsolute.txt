@@ -1,0 +1,15 @@
+/Users/polina/Desktop/Контрольная работа ЧИСТОВИК/Test_Geek_Brains/bin/Debug/net6.0/Test_Geek_Brains
+/Users/polina/Desktop/Контрольная работа ЧИСТОВИК/Test_Geek_Brains/bin/Debug/net6.0/Test_Geek_Brains.deps.json
+/Users/polina/Desktop/Контрольная работа ЧИСТОВИК/Test_Geek_Brains/bin/Debug/net6.0/Test_Geek_Brains.runtimeconfig.json
+/Users/polina/Desktop/Контрольная работа ЧИСТОВИК/Test_Geek_Brains/bin/Debug/net6.0/Test_Geek_Brains.dll
+/Users/polina/Desktop/Контрольная работа ЧИСТОВИК/Test_Geek_Brains/bin/Debug/net6.0/Test_Geek_Brains.pdb
+/Users/polina/Desktop/Контрольная работа ЧИСТОВИК/Test_Geek_Brains/obj/Debug/net6.0/Test_Geek_Brains.csproj.AssemblyReference.cache
+/Users/polina/Desktop/Контрольная работа ЧИСТОВИК/Test_Geek_Brains/obj/Debug/net6.0/Test_Geek_Brains.GeneratedMSBuildEditorConfig.editorconfig
+/Users/polina/Desktop/Контрольная работа ЧИСТОВИК/Test_Geek_Brains/obj/Debug/net6.0/Test_Geek_Brains.AssemblyInfoInputs.cache
+/Users/polina/Desktop/Контрольная работа ЧИСТОВИК/Test_Geek_Brains/obj/Debug/net6.0/Test_Geek_Brains.AssemblyInfo.cs
+/Users/polina/Desktop/Контрольная работа ЧИСТОВИК/Test_Geek_Brains/obj/Debug/net6.0/Test_Geek_Brains.csproj.CoreCompileInputs.cache
+/Users/polina/Desktop/Контрольная работа ЧИСТОВИК/Test_Geek_Brains/obj/Debug/net6.0/Test_Geek_Brains.dll
+/Users/polina/Desktop/Контрольная работа ЧИСТОВИК/Test_Geek_Brains/obj/Debug/net6.0/refint/Test_Geek_Brains.dll
+/Users/polina/Desktop/Контрольная работа ЧИСТОВИК/Test_Geek_Brains/obj/Debug/net6.0/Test_Geek_Brains.pdb
+/Users/polina/Desktop/Контрольная работа ЧИСТОВИК/Test_Geek_Brains/obj/Debug/net6.0/Test_Geek_Brains.genruntimeconfig.cache
+/Users/polina/Desktop/Контрольная работа ЧИСТОВИК/Test_Geek_Brains/obj/Debug/net6.0/ref/Test_Geek_Brains.dll
